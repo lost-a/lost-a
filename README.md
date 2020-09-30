@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on ...
+- 🤔 I’m looking for help with ...
 <!--
 **lost-a/lost-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
